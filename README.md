@@ -1,4 +1,5 @@
 # Security Alarm
+Selfbuilt home security alarm, which will detect any motion that passes by. This is made with Python and Raspberry Pi. 
 
 ### Getting Started 
 Install Pycharm from [here](https://www.jetbrains.com/pycharm/download/#section=mac)
